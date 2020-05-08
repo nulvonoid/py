@@ -1,0 +1,2 @@
+p=asdf
+print (p)
